@@ -1,0 +1,13 @@
+what do we actually use with it?
+HTML,CSS,JS
+Content of the page
+presentation,styling
+dynamic interactive,load data from 
+manipulating styles
+
+capable
+dynamic effect
+built entire webpage
+modern web
+
+ 
