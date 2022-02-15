@@ -26,7 +26,6 @@ if (AgeGouri > Age)
     console.log(true)
 else console.log(false);
 
-}
 
 /////////////------------------Coding Chalange 1
 
